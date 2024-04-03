@@ -5,7 +5,7 @@ public class Main {
         parcourirListIterator();
     }
     public static void parcourirListIterator() {
-        ArrayList<String> uneListe = new ArrayList<String>();
+        ArrayList<String> uneListe = new ArrayList<>();
         uneListe.add("un");
         uneListe.add("deux");
         uneListe.add("trois");
